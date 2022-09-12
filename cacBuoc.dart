@@ -12,3 +12,8 @@
 //git add . de dua tat ca cac file len
 //git commit -m "Add all files" de commit va thong bao
 // git push -u origin main de push len
+
+//update thay doi voi file
+// git add . de dua tat ca cac file len
+//git commit -m "Add all files" de commit va thong bao
+// git push -u origin main de push len
